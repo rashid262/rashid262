@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rashid262
-- 👀 I’m interested in Web Developemenrt
+- 👀 I’m interested in Web Developmenrt
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on WebDevelopement
+- 💞️ I’m looking to collaborate on WebDevelopment
 
 
 <!---
