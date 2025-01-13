@@ -5,8 +5,6 @@
 
 ✨ I’m also exploring advanced topics like Java Collections Framework, OOP concepts, and backend development to become a proficient full-stack Java developer.  
 📚 Always eager to grow, I enjoy building projects, solving coding challenges, and learning new technologies.
-
-Feel free to connect with me and check out my repositories for more!
 ---
 
 
