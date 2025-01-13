@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @rashid262
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning
+👋 Hi, I’m @rashid262
+👀 I’m passionate about full-stack development and software engineering.
+🌱 I’m currently honing my skills in Java, Python, and modern web technologies like React, JDBC, and MongoDB.
+
+✨ I’m also exploring advanced topics like Java Collections Framework, OOP concepts, and backend development to become a proficient full-stack Java developer.
+📚 Always eager to grow, I enjoy building projects, solving coding challenges, and learning new technologies.
+
+Feel free to connect with me and check out my repositories for more!
 
 
 <!---
